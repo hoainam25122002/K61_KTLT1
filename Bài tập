@@ -1,0 +1,6 @@
+print("Hello World)
+
+a = ''' họ và tên: Võ Trần Hoài Nam
+msv: 205752021610023
+nghành: kỹ thuật điều khiển và tự động hóa'''
+print(a)
